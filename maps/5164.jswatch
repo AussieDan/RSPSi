@@ -1,0 +1,353 @@
+[ {
+  "id" : 52612,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 0,
+  "zoom" : 555,
+  "name" : "Door",
+  "root" : false
+}, {
+  "id" : 51724,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Stool",
+  "root" : false
+}, {
+  "id" : 52461,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 11,
+  "zoom" : 555,
+  "name" : "Table",
+  "root" : false
+}, {
+  "id" : 52635,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Staircase",
+  "root" : false
+}, {
+  "id" : 51542,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Cabinet",
+  "root" : false
+}, {
+  "id" : 51541,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Cabinet",
+  "root" : false
+}, {
+  "id" : 10820,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Oak tree",
+  "root" : false
+}, {
+  "id" : 60447,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 0,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 697,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Animal skull",
+  "root" : false
+}, {
+  "id" : 14525,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Skeleton",
+  "root" : false
+}, {
+  "id" : 30196,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Chain",
+  "root" : false
+}, {
+  "id" : 653,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 654,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 5118,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "minimap-function",
+  "root" : false
+}, {
+  "id" : 60407,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Pool of rejuvenation",
+  "root" : false
+}, {
+  "id" : 60405,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Near-Reality altar",
+  "root" : false
+}, {
+  "id" : 43468,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Loot Chest",
+  "root" : false
+}, {
+  "id" : 60465,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Leaderboard",
+  "root" : false
+}, {
+  "id" : 60403,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Well of sacrifice",
+  "root" : false
+}, {
+  "id" : 60442,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Well of good will",
+  "root" : false
+}, {
+  "id" : 6802,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Repair Stand",
+  "root" : false
+}, {
+  "id" : 18245,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Lectern",
+  "root" : false
+}, {
+  "id" : 60404,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Near-Reality chest",
+  "root" : false
+}, {
+  "id" : 60409,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Reagent mixer",
+  "root" : false
+}, {
+  "id" : 34733,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "<col=ffff00>Strange casket</col>",
+  "root" : false
+}, {
+  "id" : 47345,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Bank chest",
+  "root" : false
+}, {
+  "id" : 32118,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Torch",
+  "root" : false
+}, {
+  "id" : 39546,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Death's Domain",
+  "root" : false
+}, {
+  "id" : 39619,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "minimap-function",
+  "root" : false
+}, {
+  "id" : 35003,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Spiritual Fairy Tree",
+  "root" : false
+}, {
+  "id" : 100,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "Trapdoor",
+  "root" : false
+}, {
+  "id" : 14108,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "minimap-function",
+  "root" : false
+} ]
