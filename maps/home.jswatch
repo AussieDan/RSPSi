@@ -1,0 +1,397 @@
+[ {
+  "id" : 27472,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 9,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 27472,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 0,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 60442,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Well of good will",
+  "root" : false
+}, {
+  "id" : 7386,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 46950,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 25809,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Closed booth",
+  "root" : false
+}, {
+  "id" : 25808,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Bank booth",
+  "root" : false
+}, {
+  "id" : 25810,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 25936,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 961,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 7,
+  "zoom" : 555,
+  "name" : "Bank notice board",
+  "root" : false
+}, {
+  "id" : 2738,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "minimap-function",
+  "root" : false
+}, {
+  "id" : 2733,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "minimap-function",
+  "root" : false
+}, {
+  "id" : 2772,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "minimap-function",
+  "root" : false
+}, {
+  "id" : 2744,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "minimap-function",
+  "root" : false
+}, {
+  "id" : 2743,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "minimap-function",
+  "root" : false
+}, {
+  "id" : 10082,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Furnace",
+  "root" : false
+}, {
+  "id" : 28563,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Anvil",
+  "root" : false
+}, {
+  "id" : 2280,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Lathe",
+  "root" : false
+}, {
+  "id" : 2742,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "minimap-function",
+  "root" : false
+}, {
+  "id" : 5118,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "minimap-function",
+  "root" : false
+}, {
+  "id" : 6802,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Repair Stand",
+  "root" : false
+}, {
+  "id" : 18245,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Lectern",
+  "root" : false
+}, {
+  "id" : 60404,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Near-Reality chest",
+  "root" : false
+}, {
+  "id" : 60409,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Reagent mixer",
+  "root" : false
+}, {
+  "id" : 34733,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "<col=ffff00>Strange casket</col>",
+  "root" : false
+}, {
+  "id" : 39619,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "minimap-function",
+  "root" : false
+}, {
+  "id" : 27501,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Altar",
+  "root" : false
+}, {
+  "id" : 2752,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 22,
+  "zoom" : 555,
+  "name" : "minimap-function",
+  "root" : false
+}, {
+  "id" : 60447,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 0,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+}, {
+  "id" : 14525,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Skeleton",
+  "root" : false
+}, {
+  "id" : 30196,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Chain",
+  "root" : false
+}, {
+  "id" : 697,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Animal skull",
+  "root" : false
+}, {
+  "id" : 60405,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Near-Reality altar",
+  "root" : false
+}, {
+  "id" : 60465,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Leaderboard",
+  "root" : false
+}, {
+  "id" : 60403,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 10,
+  "zoom" : 555,
+  "name" : "Well of sacrifice",
+  "root" : false
+}, {
+  "id" : 41722,
+  "rotation" : {
+    "x" : 0.0,
+    "y" : 0.0,
+    "z" : 0.0
+  },
+  "type" : 0,
+  "zoom" : 555,
+  "name" : "null",
+  "root" : false
+} ]
